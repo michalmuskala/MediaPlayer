@@ -1,0 +1,13 @@
+Odtwarzanie wybrane typt plików muzycznych (mp3, ...)
+Odtwarzanie się nie przerwie w momencie zamknięcia aplikacji/zgaszenia ekranu 
+możliwośc explorowania utworów które są na urządzeniu 
+tworzenie playlisty 
+suwak z przewijaniem utworu, odtwarzanie playlisty z dowolnego utrworu
+playlista gra po kolei albo losowo 
+wyświetlanie - nazwa, artysta, album 
+
+klasy: 
+lista_utworów 
+playlista
+utwory
+player 
